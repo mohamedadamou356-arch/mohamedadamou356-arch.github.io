@@ -1,0 +1,1 @@
+[{      "relation": ["delegate_permission/common.handle_all_urls"],      "target": {        "namespace": "android_app",        "package_name": "com.ilmquiz.app",        "sha256_cert_fingerprints": ["41:FD:E2:0D:00:42:EA:20:F5:C9:47:98:89:43:22:FF:3B:82:75:DC:67:98:CD:AC:B3:86:FB:0F:85:F6:A3:46"]      }    }]
